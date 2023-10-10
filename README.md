@@ -1,5 +1,3 @@
-Here is one way to format the text with headers and bullet points:
-
 # Cover_Letter_Generator_48hr_Project
 
 Learning project to build a Cover Letter Generator using the openAI API. 
