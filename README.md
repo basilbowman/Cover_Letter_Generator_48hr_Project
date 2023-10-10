@@ -1,5 +1,6 @@
 # Cover_Letter_Generator_48hr_Project
 Learning project to build a Cover Letter Generator using the openAI API.
+
 TL;DR - This is what a motivated absolute novice (with zero coding experience) can do in 48 hours with AI.
 
 
